@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajackluq&label=Profile%20views&color=0e75b6&style=flat" alt="ajackluq" /> </p>
 
-- 🔭 I’m currently working on **Web Management System**
-
-- 🌱 I’m currently learning **Laravel and Mobile programming.**
+- 🔭 I’m currently working on **Monitoring System**
 
 - 💬 Ask me about **Java, C++, PHP and etc..**
 
-- 📫 How to reach me **Nope**
+- 📫 How to reach me **luqman8559@gmail.com**
 
-- ⚡ Fun fact **I think I stopped sleeping once I started immersing in codes.**
+- ⚡ Fun fact **Php is not dead still!**
   
 <br>
 
